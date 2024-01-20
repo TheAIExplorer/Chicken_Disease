@@ -41,7 +41,7 @@ class ConfigurationManager:
         return data_ingestion_config
 
 
-# update the components contains all the classes and methods that are gonig to be used in pipeline
+# update the components: contains all the classes and methods that are gonig to be used in pipeline
 import urllib.request as request
 import zipfile
 import os
